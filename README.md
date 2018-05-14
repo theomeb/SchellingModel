@@ -11,7 +11,9 @@ A statistical physics project about the Schelling model of segregation
 * Mise en place d'un modèle avec 3 diemensions
 * Mise en place d'un modèle utilisant une distance et des positions continues
 * Mise en place d'un modèle avec repositionnement des individus statisfaits avec une proba m [4]
+* Mise en place d'un modèle avec different seuil de tolerence [4]
 * Présentation des limites du modèle, biais, etc...  [3]
+* Mise en place des metriques : entropie, Moran Index, C index [3] [4]
 * Lien avec les théories de Game Theory ? 
 *
 
