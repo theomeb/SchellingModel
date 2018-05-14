@@ -8,7 +8,7 @@ A statistical physics project about the Schelling model of segregation
 * Deux/trois simulations avec ce modèle
 * Pourquoi pas un modèle plus compliqué, notamment avec plusieurs populations ou du placement aléatoire sur une carte (avec des contraintes géographiques, ça serait stylé niveau illustration) 
 * Mise en place d'un modèle avec differents modeles de population (differents feature pour un indiviu) : on s'attend a voir une frontiere entre un homogeniete (suffisament de voisins pour une frontiere communes) et une forte segregation (tri par toutes les features)
-* Présentation des limites du modèle, biais, etc...
+* Présentation des limites du modèle, biais, etc...  docs: [3]
 * Lien avec les théories de Game Theory ? 
 *
 
@@ -23,23 +23,23 @@ A statistical physics project about the Schelling model of segregation
 
 ## Biblio en vrac 
 
-[Présentation très simplifiée du modèle - Deux populations](http://www.gemass.fr/dphan/complexe/schellingfr.html)
+[1] [Présentation très simplifiée du modèle - Deux populations](http://www.gemass.fr/dphan/complexe/schellingfr.html)
 
-[Modèle avec placement aléatoire sur une carte carrée - Deux populations](https://lectures.quantecon.org/jl/schelling.html)
+[2] [Modèle avec placement aléatoire sur une carte carrée - Deux populations](https://lectures.quantecon.org/jl/schelling.html)
 
-[Thèse sur les limites du modèle - *La ségrégation spatiale selon Schelling: la perversité est ailleurs
+[3] [Thèse sur les limites du modèle - *La ségrégation spatiale selon Schelling: la perversité est ailleurs
 Michel Forsé, Maxime Parodi*](https://hal-sciencespo.archives-ouvertes.fr/hal-00973079/document)
 
-[Thèse poussée sur le modèle - **À lire** - *Combining segregation and integration: Schelling model dynamics for heterogeneous population
+[4] [Thèse poussée sur le modèle - **À lire** - *Combining segregation and integration: Schelling model dynamics for heterogeneous population
 Erez Hatna1, Itzhak Benenson2*](https://arxiv.org/ftp/arxiv/papers/1406/1406.5215.pdf)
 
-[Présentation très simplifiée du modèle - Deux populations - *Schelling's Model of Segregation
+[5] [Présentation très simplifiée du modèle - Deux populations - *Schelling's Model of Segregation
 Frank McCown
 Computer Science Department
 Harding University*](http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/)
 
-[Petit article sur le modèle ](https://mindyourdecisions.com/blog/2008/10/28/game-theory-and-racism-the-schelling-segregation-model/)
+[6] [Petit article sur le modèle ](https://mindyourdecisions.com/blog/2008/10/28/game-theory-and-racism-the-schelling-segregation-model/)
 
-[Thèse très *mathématique* sur le modèle - *Computing the Complexity for Schelling Segregation Models*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.628&rep=rep1&type=pdf)
+[7] [Thèse très *mathématique* sur le modèle - *Computing the Complexity for Schelling Segregation Models*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.628&rep=rep1&type=pdf)
 
 
