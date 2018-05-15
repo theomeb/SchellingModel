@@ -7,13 +7,13 @@ A statistical physics project about the Schelling model of segregation
 * Une présentation simple du modèle / de Schelling
 * Deux/trois simulations avec ce modèle
 * Pourquoi pas un modèle plus compliqué, notamment avec plusieurs populations ou du placement aléatoire sur une carte (avec des contraintes géographiques, ça serait stylé niveau illustration) 
-* Mise en place d'un modèle avec differents modeles de population (differents feature pour un indiviu) : on s'attend a voir une frontiere entre un homogeniete (suffisament de voisins pour une frontiere communes) et une forte segregation (tri par toutes les features)
-* Mise en place d'un modèle avec 3 diemensions
+* Mise en place d'un modèle avec differents modèles de populations (différents features pour un indiviu) : on s'attend à voir une frontière entre un homogéniété (suffisament de voisins pour une frontière commune) et une forte segregation (tri par toutes les features)
+* Mise en place d'un modèle avec 3 dimensions
 * Mise en place d'un modèle utilisant une distance et des positions continues
 * Mise en place d'un modèle avec repositionnement des individus statisfaits avec une proba m [4]
 * Mise en place d'un modèle avec different seuil de tolerence [4]
 * Présentation des limites du modèle, biais, etc...  [3]
-* Mise en place des metriques : entropie, Moran Index, C index [3] [4]
+* Mise en place des métriques : entropie, Moran Index, C index [3] [4]
 * Lien avec les théories de Game Theory ? 
 *
 
@@ -32,8 +32,8 @@ A statistical physics project about the Schelling model of segregation
 
 [2] [Modèle avec placement aléatoire sur une carte carrée - Deux populations](https://lectures.quantecon.org/jl/schelling.html)
 
-[3] [Thèse sur les limites du modèle - *La ségrégation spatiale selon Schelling: la perversité est ailleurs
-Michel Forsé, Maxime Parodi*](https://hal-sciencespo.archives-ouvertes.fr/hal-00973079/document)
+[3] [Thèse sur les limites du modèle - *La ségrégation spatiale selon Schelling: la perversité est ailleurs
+Michel Forsé, Maxime Parodi*](https://hal-sciencespo.archives-ouvertes.fr/hal-00973079/document)
 
 [4] [Thèse poussée sur le modèle - **À lire** - *Combining segregation and integration: Schelling model dynamics for heterogeneous population
 Erez Hatna1, Itzhak Benenson2*](https://arxiv.org/ftp/arxiv/papers/1406/1406.5215.pdf)
